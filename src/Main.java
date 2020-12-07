@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        int number1 = 1;
-        int number2 = 2;
-        int number3 = 3;
+        int Value = 1;
+        int value= 2;
+        int value = 3;
 
         int j;
     }
